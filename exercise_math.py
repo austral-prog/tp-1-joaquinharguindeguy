@@ -1,7 +1,7 @@
 def math():
-    a = 57
-    b = 7
-    print(a + b)
+	a = 57
+	b = 7
+	print(a + b)
 	print(a - b)
 	print(a * b)
 	c = (a + b)
@@ -11,3 +11,6 @@ def math():
 	print(e)
 	print(a % b)
 	print(a / b)
+
+math()
+
